@@ -1,15 +1,8 @@
 MacOSX-SDKs
 ---
-**10.1.5 - 11.3**
 
 A collection of those pesky SDK folders.  Compiled from various releases of Xcode.
 
-If you don't need this entire repository, each SDK is available [here](https://github.com/phracker/MacOSX-SDKs/releases).
-
-
-<sub>Outdated versions: **[mediafire](http://www.mediafire.com/?a4g384ysgy5rg)** /  **[mega.co.nz](https://mega.co.nz/#F!H8xGhaDD!Uv5BTPr0LP7IU5pj0WGCKg)** / 
-**[mediafire](http://www.mediafire.com/?abr89fy4uaz3z)** /  **[mega.co.nz](https://mega.co.nz/#F!4U4SXAxa!ZVltflL2O_5q57R0BVsPTg)**.
-</sub>
 
 **Important**
 

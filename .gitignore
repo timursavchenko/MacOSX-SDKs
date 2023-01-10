@@ -7,3 +7,4 @@ release/
 
 release_backup/*
 release_backup/
+._*
